@@ -23,6 +23,8 @@ Hi there! My name is Mercy Wang. As a current student in the Quantitative Method
 
   I built my first python package called *nationalmhfilter* for a data course. The package showcases the statistics of mental health care records for all states in the US. Users can extract mental heanlth care records of different social groups then make comparisons easily, including age, sex, race, education, and gender identity, providing evidence and directions to improve healthcare services.
 
+  Link to the project: https://github.com/QMSS-G5072-2023/NationalMHFilter.git
+  
   To use the package: ``` pip install nationalmhfilter ```
 
 ## 💪 Skills
