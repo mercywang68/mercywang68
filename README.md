@@ -2,21 +2,22 @@
 Hi there! My name is Mercy Wang. As a current student in the Quantitative Methods in the Social Sciences master’s program at Columbia University, coupled with a solid psychology background, I am deeply committed to promote equity and always eager to enhance my skillset to address practical issues with solid evidence. 
 
 ## 🌱 Current Projects
-- Communities Speak: Baseline Survey 7
-
-  Communities Speak, a research project housed at Columbia University and supported by Bloomberg Philanthropies, is collecting data from New Yorkers across the city on their experiences with housing, transportation, employment, childcare, food, government services, and where they are going for support. We aim to increase the diversity and influence of community voices in policy-making by developing data-driven dialogue between community leaders, constituents, and governments. 
-
 - Young Women in Modern China: Current Wave of the Development of Feminist Identity
 
   The research intends to comprehensively examine current development stages of feminism among young Chinese females. It provides evidence to clarify the relationships between feminist identity and individual well-being and growth through a survey and an experiment, guiding feasible approaches and advancing policies to achieve gender equity in China.
   
-- The Effect of Gender Norm Strength on Regional Economic Development, Education, and Societal Well-being
-
-  The study incorporates existing datasets to construct a machine learning model to predict the effect of gender norm strength on regional multilevel development across cultures. The development of composite indices aims at comprehensively measuring the levels of economy, education, and well-being within each region. Given how people think and behave rebuild or maintain the social environment, rigid conformity of gender norms leads to wide gaps between sexes in resource distribution, resulting in stagnation or conflicts within a country. Strong gender norms may have adverse effects, thus partially explaining the importance of equal gender perception.
-  
 - To be continued...
 
 ## 🔭 Previous Projects
+  
+- The Effect of Gender Norm Strength on Regional Economic Development, Education, and Societal Well-being
+
+  The study incorporates existing datasets to construct a machine learning model to predict the effect of gender norm strength on regional multilevel development across cultures. The development of composite indices aims at comprehensively measuring the levels of economy, education, and well-being within each region. Given how people think and behave rebuild or maintain the social environment, rigid conformity of gender norms leads to wide gaps between sexes in resource distribution, resulting in stagnation or conflicts within a country. Strong gender norms may have adverse effects, thus partially explaining the importance of equal gender perception.
+
+- Communities Speak: Baseline Survey 7
+
+  Communities Speak, a research project housed at Columbia University and supported by Bloomberg Philanthropies, is collecting data from New Yorkers across the city on their experiences with housing, transportation, employment, childcare, food, government services, and where they are going for support. We aim to increase the diversity and influence of community voices in policy-making by developing data-driven dialogue between community leaders, constituents, and governments.
+  
 - Refugee Microdata Exprloration and Visualization, Lead Researcher, USA for UNHCR
 
   Our mission was to transform raw microdata into actionable insights, addressing refugee disparities and meticulously identifying future implications. Aiming for quality final deliverables, I formulated the pace of the dashboard documentation and a formal report, where prospects of these national surveys and realistic disparities are transparently outlined under my revision.
